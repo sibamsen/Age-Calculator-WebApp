@@ -29,7 +29,9 @@ The user selects their **Date of Birth (DOB)** and the app calculates their **ag
 │── README.md       # Documentation
 └── requirements.txt
 
+---
+
 ❤️ Author
 
 Sibam Sen
-A simple Streamlit project built with love and learning 🚀
+
